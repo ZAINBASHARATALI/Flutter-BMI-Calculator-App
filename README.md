@@ -1,6 +1,6 @@
 # bmi_calculator
 
-8thFlutter application.
+A Beautiful Flutter Application that helps us in Calculating our Body Mass Index.
 
 ## Getting Started
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/62956793/151050614-a472f3b3-63a9-42e6-94c6-e458001c7f4a.gif)
