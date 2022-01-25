@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+const kcardcolor = Color(0xFF1D1E33);
+const kinactive =Colors.black38;
+const kbotomcardcolor = Colors.green;
+const double kbotomcardheight = 70;
+const Icon kmalegender = Icon(FontAwesomeIcons.male, size: 90);
+const Icon kfemalegender = Icon(FontAwesomeIcons.female, size: 90);
+const TextStyle kstylo = TextStyle(fontSize: 18, fontWeight: FontWeight.w500);
+const TextStyle kbigstylo = TextStyle(fontSize: 60, fontWeight: FontWeight.w600, fontStyle: FontStyle.italic);
